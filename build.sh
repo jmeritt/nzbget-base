@@ -1,3 +1,3 @@
 #!/bin/bash
-docker build -t jmeritt/nzbget --no-cache .
+docker build -t jmeritt/nzbget .
 docker push jmeritt/nzbget
