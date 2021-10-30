@@ -1,4 +1,4 @@
-FROM jmeritt/debian-htpc
+FROM jmeritt/ubuntu-htpc
 
 USER htpc
 
